@@ -1,0 +1,2 @@
+# BaseJwtAPI
+BaseJwtAPI (.NetCore)
