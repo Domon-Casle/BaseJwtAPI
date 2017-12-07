@@ -9,3 +9,14 @@ c:\users\domon\source\repos\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJw
 c:\users\domon\source\repos\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.pdb
 c:\users\domon\source\repos\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.dll
 c:\users\domon\source\repos\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.pdb
+C:\Dev\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.deps.json
+C:\Dev\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.runtimeconfig.json
+C:\Dev\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.runtimeconfig.dev.json
+C:\Dev\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.dll
+C:\Dev\BaseJwtAPI\BaseJwtAPI\bin\Debug\netcoreapp2.0\BaseJwtAPI.pdb
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.csprojResolveAssemblyReference.cache
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.csproj.CoreCompileInputs.cache
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.AssemblyInfoInputs.cache
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.AssemblyInfo.cs
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.dll
+C:\Dev\BaseJwtAPI\BaseJwtAPI\obj\Debug\netcoreapp2.0\BaseJwtAPI.pdb

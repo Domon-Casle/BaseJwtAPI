@@ -13111,12 +13111,13 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.3",
+      "Microsoft.AspNetCore.Mvc.Cors >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\domon\\.nuget\\packages\\": {},
+    "C:\\Users\\enavarro\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13125,17 +13126,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\domon\\source\\repos\\BaseJwtAPI\\BaseJwtAPI\\BaseJwtAPI.csproj",
+      "projectUniqueName": "C:\\Dev\\BaseJwtAPI\\BaseJwtAPI\\BaseJwtAPI.csproj",
       "projectName": "BaseJwtAPI",
-      "projectPath": "C:\\Users\\domon\\source\\repos\\BaseJwtAPI\\BaseJwtAPI\\BaseJwtAPI.csproj",
-      "packagesPath": "C:\\Users\\domon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\domon\\source\\repos\\BaseJwtAPI\\BaseJwtAPI\\obj\\",
+      "projectPath": "C:\\Dev\\BaseJwtAPI\\BaseJwtAPI\\BaseJwtAPI.csproj",
+      "packagesPath": "C:\\Users\\enavarro\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\BaseJwtAPI\\BaseJwtAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\domon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\enavarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13162,6 +13163,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "2.0.0"
+          },
+          "Microsoft.AspNetCore.Mvc.Cors": {
+            "target": "Package",
+            "version": "2.0.1"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
